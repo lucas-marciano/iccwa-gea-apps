@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Implicit Intents</string>
+    <string name="hint_site">http://exemple.com</string>
+    <string name="button_label_website">Open website</string>
+    <string name="hint_location">Golden Gate Bridge</string>
+    <string name="button_label_location">Open location</string>
+    <string name="hint_share">Enter with the text</string>
+    <string name="button_label_share">Share This Text</string>
+</resources>
