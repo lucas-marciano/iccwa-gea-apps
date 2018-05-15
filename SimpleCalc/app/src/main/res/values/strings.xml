@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleCalc</string>
+    <string name="bt_text_sub">SUB</string>
+    <string name="bt_text_add">ADD</string>
+    <string name="bt_text_mult">MUL</string>
+    <string name="bt_text_div">DIV</string>
+    <string name="computation_error">Ocorreu um erro ao tentar realizar a operação.</string>
+</resources>
