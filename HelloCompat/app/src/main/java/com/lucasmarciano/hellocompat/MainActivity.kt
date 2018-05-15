@@ -16,7 +16,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         savedInstanceState.let {
-            tv_hello_world.setTextColor(resources.getColor(it!!.getInt("color")))
+            if (it != null) {
+                tv_hello_world.setTextColor(resources.getColor(it.getInt("color")))
+            }
         }
     }
 
