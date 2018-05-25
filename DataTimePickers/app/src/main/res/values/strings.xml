@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Data Time Pickers</string>
+    <string name="label_intro">Choose the Data and Time</string>
+    <string name="get_data">Get data</string>
+    <string name="get_time">Get Time</string>
+
+    <string name="date_picker">datePicker</string>
+    <string name="time_picker">timePicker</string>
+</resources>
