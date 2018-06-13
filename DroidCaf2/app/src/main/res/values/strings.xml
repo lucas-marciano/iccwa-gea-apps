@@ -18,4 +18,5 @@
     <string name="action_add_car">Add to car</string>
     <string name="action_status">Status</string>
     <string name="resource_coord">geo:37.422114,-122.086744?z=12</string>
+    <string name="title_order_activity">Order Activity</string>
 </resources>

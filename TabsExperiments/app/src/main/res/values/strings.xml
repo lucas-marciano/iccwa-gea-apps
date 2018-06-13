@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tabs Experiments</string>
+    <string name="label_fragment1">Top stories</string>
+    <string name="label_fragment2">Tech news</string>
+    <string name="label_fragment3">Cooking</string>
+    <string name="label_default">These are the top stories:</string>
+    <string name="label_top_stories">These are the top stories:</string>
+</resources>
